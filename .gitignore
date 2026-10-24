@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+**/target/
+
+# Runtime data
+/database/data/
+/mail/data/
+
+# Local secrets
+.env
+
+# Frontend
+**/node_modules/
+**/dist/
+
+# OS
+.DS_Store
+Thumbs.db
